@@ -34,7 +34,6 @@ Request.propTypes = {
   onMethodChange: PropTypes.func.isRequired,
   onBodyChange: PropTypes.func.isRequired,
   onSubmit: PropTypes.func.isRequired
-
 };
 
 export default Request;
